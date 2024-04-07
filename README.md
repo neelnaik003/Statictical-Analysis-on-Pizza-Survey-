@@ -6,5 +6,6 @@ Statistical Analysis
 Descriptive Analysis
 Graphical Analysis
 Predictive Analysis
+Hypothesis Testing
 
 
